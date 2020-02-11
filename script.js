@@ -1,4 +1,5 @@
 // JavaScript to be added
 
-var driver = window.prompt("Email")
-console.log("Join Our Mailing List);
+var hola = window.prompt("User Email")
+console.log("Thanks for your email!");
+
