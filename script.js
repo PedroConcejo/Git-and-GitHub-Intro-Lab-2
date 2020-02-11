@@ -1,7 +1,12 @@
 // JavaScript to be added
 
+var button = document.getElementById("button-yellow")
+button.onclick = function (){
+    var hola = window.prompt("User Email")
+alert("Thanks for your email!");
 
-var hola = window.prompt("User Email")
-console.log("Thanks for your email!");
+    
+}
+
 
 
